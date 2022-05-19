@@ -9,7 +9,7 @@
 .container {
     width: 100vw;
     height: 100vh;
-    background: #272e35;
+    background: rgb(0, 0, 0);
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -19,10 +19,11 @@
 .box {
     width: 430px;
     height: 200px;
-    background: #fff;
+    background: rgb(42, 26, 66);
     border: 1px solid rgb(69, 78, 88);
     border-radius: 1%;
     align-items: center;
     font-family: 'Zen Maru Gothic', sans-serif;
     padding: 10px;
+    color: rgb(134, 83, 92);
 }
